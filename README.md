@@ -1,6 +1,6 @@
 All files are in order. So img_names index 0 is also decoded_32x32 index 0. All images are found in data/
 
-![train images](https://github.com/neelz040/triangle2circle_dataset/blob/master/train/sprite_imgs_32x32.png?raw=true | width=100)
+<img src="https://github.com/neelz040/triangle2circle_dataset/blob/master/train/sprite_imgs_32x32.png?raw=true" width="350" title="hover text">
 
 There are a total of 1089 images
 - COLOR = 9 different greens encoded in RGB (0,0,0)
